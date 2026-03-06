@@ -14,18 +14,6 @@ function Sidebar() {
 
       <Link to="/production">Production</Link>
 
-      <Link to="/finance">Finance</Link>
-
-      <Link to="/hr">HR</Link>
-
-      <Link to="/logistics">Logistics</Link>
-
-      <Link to="/quality">Quality</Link>
-
-      <Link to="/warehouse">Warehouse</Link>
-
-      <Link to="/assets">Assets</Link>
-
       <Link to="/reports">Reports</Link>
 
       <Link to="/users">Users</Link>
