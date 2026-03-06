@@ -24,19 +24,6 @@ function App() {
           <Route index element={<Dashboard />} />
           <Route path="/dashboard" element={<Dashboard />} />
 
-          {/* <Route path="/employees" element={<Employees />} />
-
-          <Route path="/departments" element={<Departments />} />
-
-          <Route path="/projects" element={<Projects />} />
-
-          <Route path="/inventory" element={<Inventory />} />
-
-          <Route path="/attendance" element={<Attendance />} />
-
-          <Route path="/reports" element={<Reports />} />
-
-          <Route path="/settings" element={<Settings />} /> */}
 
         </Route>
 
